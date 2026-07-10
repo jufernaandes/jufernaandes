@@ -4,8 +4,8 @@
 
 **Assistente de Sistemas • QA Tester • SQL • Análise de Dados**
 
-📍 Bauru, SP - Brasil
-🎓 Sistemas de Informação (ITE)
+ Bauru, SP - Brasil
+ Sistemas de Informação (ITE)
 
 
 </div>
