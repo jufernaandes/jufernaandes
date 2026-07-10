@@ -58,7 +58,7 @@ Utilizo SQL e Python para consultas e automações, e atualmente estou aprofunda
 
 ### Sistema de Banco de Dados Relacional
 
-Projeto acadêmico desenvolvido em Oracle SQL contendo:
+Projeto pessoal desenvolvido em Oracle SQL contendo:
 
 * Modelagem conceitual e lógica
 * Criação do banco de dados
