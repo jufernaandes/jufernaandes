@@ -22,7 +22,7 @@ Utilizo SQL e Python para consultas e automações, e atualmente estou aprofunda
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## Competências Técnicas
 
 **Banco de Dados**
 
@@ -54,7 +54,7 @@ Utilizo SQL e Python para consultas e automações, e atualmente estou aprofunda
 
 ---
 
-## 🚀 Projeto em Destaque
+##👩‍💻 Projeto Principal
 
 ### Sistema de Banco de Dados Relacional
 
@@ -80,8 +80,6 @@ Projeto acadêmico desenvolvido em Oracle SQL contendo:
 * Qualidade de Software
 
 ---
-
-
 
 ## 📫 Contato
 
