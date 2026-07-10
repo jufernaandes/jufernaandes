@@ -54,7 +54,7 @@ Utilizo SQL e Python para consultas e automações, e atualmente estou aprofunda
 
 ---
 
-##👩‍💻 Projeto Principal
+## 👩‍💻 Projeto Principal
 
 ### Sistema de Banco de Dados Relacional
 
