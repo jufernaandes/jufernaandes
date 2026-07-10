@@ -1,11 +1,11 @@
 <div align="center">
 
-# Olá👋
+# Olá!👋
 
-**Assistente de Sistemas • QA Tester • SQL • Análise de Dados**
+**Assistente de Sistemas | QA Tester | SQL | Análise de Dados**
 
- Bauru, SP - Brasil
- Sistemas de Informação (ITE)
+
+📚 Sistemas de Informação (ITE)
 
 
 </div>
