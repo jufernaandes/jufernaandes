@@ -26,8 +26,8 @@ Utilizo SQL e Python para consultas e automações, e atualmente estou aprofunda
 
 **Banco de Dados**
 
-* Oracle SQL
-* PostgreSQL
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Linguagens**
 
