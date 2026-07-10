@@ -86,5 +86,4 @@ Projeto acadêmico desenvolvido em Oracle SQL contendo:
 ## 📫 Contato
 
 * LinkedIn: www.linkedin.com/in/júlia-fernandes-90a164187
-* GitHub: https://github.com/jufernaandes
 * E-mail: jufernandes1708@gmail.com
