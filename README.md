@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Júlia Fernandes 👋
+# Olá👋
 
 **Assistente de Sistemas • QA Tester • SQL • Análise de Dados**
 
