@@ -54,20 +54,6 @@ Utilizo SQL e Python para consultas e automações, e atualmente estou aprofunda
 
 ---
 
-## 💼 Experiência
-
-**Assistente de Sistemas | Servimed Comercial LTDA**
-
-* Suporte funcional aos sistemas SAP ECC, WMS ZIM e Alcis.
-* Investigação e análise da causa raiz de incidentes.
-* Validação de correções e acompanhamento junto ao time técnico.
-* Execução de testes funcionais (QA).
-* Documentação de processos e fluxos de negócio.
-* Consultas SQL para análise de dados.
-* Desenvolvimento de pequenas automações em Python para otimização de atividades.
-
----
-
 ## 🚀 Projeto em Destaque
 
 ### Sistema de Banco de Dados Relacional
