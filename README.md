@@ -16,9 +16,9 @@
 
 Sou Assistente de Sistemas e QA Tester, atuo no suporte a sistemas corporativos, testes funcionais e análise de incidentes.
 
-No dia a dia trabalho com SAP ECC, WMS ZIM e Alcis, investigando causas raiz, validando correções, documentando processos e acompanhando melhorias junto ao time técnico.
+No dia a dia trabalho com SAP ECC, WMS ZIM e Alcis, realizando investigação de causa raiz, debug de processos no WMS, validação de correções, documentação funcional e acompanhamento de melhorias junto ao time técnico.
 
-Também utilizo SQL e Python para consultas e automações, enquanto aprimoro meus conhecimentos em Power BI para análise de dados e construção de dashboards.
+Utilizo SQL e Python para consultas e automações, e atualmente estou aprofundando meus conhecimentos em debug de processos no SAP ECC, além de Power BI para análise de dados e construção de dashboards.
 
 ---
 
