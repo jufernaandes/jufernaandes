@@ -14,7 +14,7 @@
 
 ## 💡 Sobre mim
 
-Sou Assistente de Sistemas e QA Tester, atuando no suporte a sistemas corporativos, testes funcionais e análise de incidentes.
+Sou Assistente de Sistemas e QA Tester, atuo no suporte a sistemas corporativos, testes funcionais e análise de incidentes.
 
 No dia a dia trabalho com SAP ECC, WMS ZIM e Alcis, investigando causas raiz, validando correções, documentando processos e acompanhando melhorias junto ao time técnico.
 
